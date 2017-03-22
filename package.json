@@ -1,5 +1,5 @@
 {
-  "name": "formsy-react-cafe",
+  "name": "formsy-react",
   "version": "0.19.2",
   "description": "A form input builder and validator for React JS",
   "main": "lib/main.js",
